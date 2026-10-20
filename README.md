@@ -56,131 +56,55 @@
 
 <div align="center">
 
-### Every commit leaves a trace.
+<img src="assets/ascii-blackhole.gif" width="100%" alt="Multicolor rotating ASCII black hole"/>
 
-<img src="https://ghchart.rshah.org/CB2957/ctrlglitch-arch" alt="GitHub contribution heatmap" width="100%"/>
+# KUSHAGRA <span style="color:#FF4D9D">GARG</span>
 
-<br/>
+### CSE STUDENT · BACKEND ENGINEERING · SECURITY · AI/ML
 
-<img src="https://github-readme-stats.vercel.app/api?username=ctrlglitch-arch&show_icons=true&hide_border=true&bg_color=050505&title_color=CB2957&icon_color=CB2957&text_color=DDDDDD&ring_color=CB2957" height="165" alt="GitHub statistics"/>
+**Building systems. Breaking assumptions. Understanding what's underneath.**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlglitch-arch&layout=compact&hide_border=true&bg_color=050505&title_color=CB2957&text_color=DDDDDD" height="165" alt="Most-used programming languages"/>
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F8FAFC)](https://github.com/ctrlglitch-arch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/kushagra-garg24/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FBBF24)](https://leetcode.com/u/Ctrl-Gglitch/)
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ctrlglitch-arch&hide_border=true&background=050505&ring=CB2957&fire=CB2957&currStreakLabel=CB2957&sideLabels=DDDDDD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="100%" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## `03 / THE CONTRIBUTION DICE`
-
-<div align="center">
-
-<!--
-  Place an animated, custom 3D contribution dice GIF at:
-  assets/contribution-dice.gif
-
-  The faces can show your contribution count, GitHub mark,
-  code symbols, and your personal logo.
-  Generate the animation from real data before publishing.
--->
-
-<img src="assets/contribution-dice.gif" width="230" alt="Animated 3D contribution dice"/>
-
-### `CONTRIBUTIONS > CONSISTENCY > GROWTH`
-
-**The goal isn't a number. It's the work behind it.**
-
-[View my contribution history →](https://github.com/ctrlglitch-arch?tab=overview&from=2026-01-01&to=2026-12-31)
+![Profile views](https://komarev.com/ghpvc/?username=ctrlglitch-arch&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## `04 / LANGUAGES & TECHNOLOGIES`
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,c,html,css&theme=dark" alt="Programming language icons"/>
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,redis,supabase&theme=dark" alt="Backend and database technology icons"/>
-
-### Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,docker&theme=dark" alt="Development tool icons"/>
-
-### AI & Data
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI and data technology icons"/>
-
-</div>
-
-*Icons represent areas I've worked with or explored; not every technology is at the same proficiency level.*
-
----
-
-## `05 / FEATURED PROJECTS`
+## `01 / DEVELOPER STATUS`
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td>
 
-### 🛡️ CICR Inventory
-
-**Backend hardening & security**
-
-Security-focused improvements to authentication flows, admin access controls, and backend reliability.
-
-`Node.js` `TypeScript` `PostgreSQL` `Jest`
-
-[Explore repository →](https://github.com/Sun-fire-nikka/cicr-inventory-1.0)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 LazyDoc
-
-**AI-powered document assistant**
-
-A Python application using an LLM and Streamlit to help analyze and summarize documents.
-
-`Python` `Groq` `Streamlit`
-
-[Explore my repositories →](https://github.com/ctrlglitch-arch?tab=repositories)
+```yaml
+identity: Kushagra Garg
+role: CSE Student / Developer
+currently_building:
+  - Backend systems
+  - Developer tools
+exploring:
+  - Cybersecurity
+  - AI / ML
+  - System design
+philosophy: >
+  Understand deeply.
+  Build carefully.
+  Ship consistently.
+```
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="42%" valign="middle">
 
-### 👁️ NeelNETRA
+### Current coordinates
 
-**Computer vision**
-
-An AI/computer-vision project focused on real-world visual detection and analysis.
-
-`Python` `Computer Vision` `Deep Learning`
-
-[Explore my repositories →](https://github.com/ctrlglitch-arch?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 Kosi V0.1
-
-**Security research & experimentation**
-
-Exploring vulnerability detection and security risk analysis through a developing model.
-
-`Python` `Security` `ML`
-
-[Explore my repositories →](https://github.com/ctrlglitch-arch?tab=repositories)
+- 🔷 **Backend:** APIs, authentication, databases
+- 🟣 **Security:** secure coding and vulnerability analysis
+- 🟢 **AI / Data:** Python and applied experiments
+- 🟠 **Foundations:** DSA, operating systems, Git
 
 </td>
 </tr>
@@ -188,52 +112,134 @@ Exploring vulnerability detection and security risk analysis through a developin
 
 ---
 
-## `06 / ENGINEERING LOG`
-
-```text
-[ CURRENTLY BUILDING ]
-  > Backend engineering fundamentals
-  > Reliable APIs and database-backed applications
-  > Personal developer activity dashboard
-
-[ CURRENTLY EXPLORING ]
-  > Data structures & algorithms
-  > Computer systems and operating systems
-  > Cybersecurity and AI/ML
-
-[ NEXT MILESTONES ]
-  > Ship complete projects
-  > Contribute to open source
-  > Improve architecture and testing practices
-```
-
----
-
-## `07 / THE PRINCIPLE`
+## `02 / CONTRIBUTION SIGNAL`
 
 <div align="center">
 
-### “I don't just want to use technology.
-### I want to understand how it works under the hood.”
+### Every commit leaves a trace.
+
+<img src="https://ghchart.rshah.org/8B5CF6/ctrlglitch-arch" alt="GitHub contribution heatmap" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ctrlglitch-arch&show_icons=true&hide_border=true&bg_color=0B1020&title_color=38BDF8&icon_color=F472B6&text_color=E2E8F0&ring_color=A78BFA" height="165" alt="GitHub stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlglitch-arch&layout=compact&hide_border=true&bg_color=0B1020&title_color=F472B6&text_color=E2E8F0" height="165" alt="Most-used repository languages"/>
+
+</div>
+
+> Contribution data comes from GitHub. Third-party cards may occasionally be unavailable. Language statistics reflect detected repository code, not a complete measure of skill.
+
+---
+
+## `03 / LANGUAGES & TOOLKIT`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,c,html,css&theme=dark" alt="Language icons"/>
+
+### Backend · Data · Infrastructure
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,redis,supabase,git,github,linux,bash,docker&theme=dark" alt="Backend and tooling icons"/>
+
+### AI · Computer Vision · Prototyping
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI and computer vision icons"/>
+
+</div>
+
+*This is a working toolkit, not a claim of equal proficiency in every technology. Remove any icon that doesn't represent experience you can discuss.*
+
+---
+
+## `04 / SELECTED BUILDS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ CICR Inventory
+
+Backend hardening work focused on admin access controls, authentication flows, and testing.
+
+`Node.js` `TypeScript` `Supabase` `Jest`
+
+[Repository →](https://github.com/Sun-fire-nikka/cicr-inventory-1.0)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 LazyDoc
+
+Python + LLM + Streamlit document analysis and summarization project.
+
+`Python` `Groq` `Streamlit`
+
+[Browse repositories →](https://github.com/ctrlglitch-arch?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+
+</td>
+<td width="50%" valign="top">
+
+
+
+---
+
+## `05 / ENGINEERING LOG`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### In progress
+
+- Build complete, documented projects
+- Strengthen API and database design
+- Improve testing and secure coding
+- Practice DSA and core CS fundamentals
+
+</td>
+<td width="50%" valign="top">
+
+### Next orbit
+
+- Contribute to open source
+- Learn from real codebases
+- Ship a useful developer tool
+- Explore deeper systems and security
+
+</td>
+</tr>
+</table>
+
+---
+
+## `06 / THE PRINCIPLE`
+
+<div align="center">
+
+> I don't just want to use technology.  
+> I want to understand how it works under the hood.
 
 **— CTRLGLITCH**
 
-*Learn the system. Question the assumptions. Build something useful.*
+`SMALL STEPS` &nbsp; · &nbsp; `BIG SYSTEMS` &nbsp; · &nbsp; `ALWAYS EVOLVING`
 
 </div>
 
 ---
 
-## `08 / CONNECT`
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ctrlglitch-arch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kushagra-garg24/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-050505?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Ctrl-Gglitch/)
+[GitHub](https://github.com/ctrlglitch-arch) ·
+[LinkedIn](https://www.linkedin.com/in/kushagra-garg24/) ·
+[LeetCode](https://leetcode.com/u/Ctrl-Gglitch/)
 
-<br/>
-
-`SMALL STEPS` &nbsp; · &nbsp; `BIG SYSTEMS` &nbsp; · &nbsp; `ALWAYS EVOLVING`
+<sub>Built with curiosity, terminal text, and a slightly unreasonable love of space.</sub>
 
 </div>
