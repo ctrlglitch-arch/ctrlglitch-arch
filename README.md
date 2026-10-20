@@ -1,20 +1,195 @@
 <div align="center">
 
-<br>
+<img src="assets/ascii-blackhole.gif" width="100%" alt="Multicolor rotating ASCII black hole"/>
 
-# <span style="color:#DFFF00;">CTRL</span><span style="color:#FF3CAC;">GLITCH</span>
+# KUSHAGRA <span style="color:#FF4D9D">GARG</span>
 
-### `Kushagra Garg` · CSE @ JIIT · Backend / Systems / Builder
+### CSE STUDENT · BACKEND ENGINEERING · SECURITY · AI/ML
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=900&color=DFFF00&center=true&vCenter=true&width=650&lines=backend.exe+is+running...;building+things+that+actually+work.;Java+%7C+C%2B%2B+%7C+SQL+%7C+JavaScript;debugging+is+part+of+the+architecture.;CTRLGLITCH+SYSTEM+ONLINE." alt="Typing SVG" />
+**Building systems. Breaking assumptions. Understanding what's underneath.**
 
-<br>
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=F8FAFC)](https://github.com/ctrlglitch-arch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/kushagra-garg24/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FBBF24)](https://leetcode.com/u/Ctrl-Gglitch/)
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FFF4D6?style=for-the-badge&logo=linkedin&logoColor=111111)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GITHUB-DFFF00?style=for-the-badge&logo=github&logoColor=111111)](https://github.com/ctrlglitch-arch)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF3CAC?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+![Profile views](https://komarev.com/ghpvc/?username=ctrlglitch-arch&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS)
 
-<br>
+</div>
+
+---
+
+## `01 / DEVELOPER STATUS`
+
+<table>
+<tr>
+<td>
+
+```yaml
+identity: Kushagra Garg
+role: CSE Student / Developer
+currently_building:
+  - Backend systems
+  - Developer tools
+exploring:
+  - Cybersecurity
+  - AI / ML
+  - System design
+philosophy: >
+  Understand deeply.
+  Build carefully.
+  Ship consistently.
+```
+
+</td>
+<td width="42%" valign="middle">
+
+### Current coordinates
+
+- 🔷 **Backend:** APIs, authentication, databases
+- 🟣 **Security:** secure coding and vulnerability analysis
+- 🟢 **AI / Data:** Python and applied experiments
+- 🟠 **Foundations:** DSA, operating systems, Git
+
+</td>
+</tr>
+</table>
+
+---
+
+## `02 / CONTRIBUTION SIGNAL`
+
+<div align="center">
+
+### Every commit leaves a trace.
+
+<img src="https://ghchart.rshah.org/8B5CF6/ctrlglitch-arch" alt="GitHub contribution heatmap" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ctrlglitch-arch&show_icons=true&hide_border=true&bg_color=0B1020&title_color=38BDF8&icon_color=F472B6&text_color=E2E8F0&ring_color=A78BFA" height="165" alt="GitHub stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlglitch-arch&layout=compact&hide_border=true&bg_color=0B1020&title_color=F472B6&text_color=E2E8F0" height="165" alt="Most-used repository languages"/>
+
+</div>
+
+> Contribution data comes from GitHub. Third-party cards may occasionally be unavailable. Language statistics reflect detected repository code, not a complete measure of skill.
+
+---
+
+## `03 / LANGUAGES & TOOLKIT`
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,c,html,css&theme=dark" alt="Language icons"/>
+
+### Backend · Data · Infrastructure
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,redis,supabase,git,github,linux,bash,docker&theme=dark" alt="Backend and tooling icons"/>
+
+### AI · Computer Vision · Prototyping
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="AI and computer vision icons"/>
+
+</div>
+
+*This is a working toolkit, not a claim of equal proficiency in every technology. Remove any icon that doesn't represent experience you can discuss.*
+
+---
+
+## `04 / SELECTED BUILDS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ CICR Inventory
+
+Backend hardening work focused on admin access controls, authentication flows, and testing.
+
+`Node.js` `TypeScript` `Supabase` `Jest`
+
+[Repository →](https://github.com/Sun-fire-nikka/cicr-inventory-1.0)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 LazyDoc
+
+Python + LLM + Streamlit document analysis and summarization project.
+
+`Python` `Groq` `Streamlit`
+
+[Browse repositories →](https://github.com/ctrlglitch-arch?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ NeelNETRA
+
+Computer-vision project exploring real-world visual detection and analysis.
+
+`Python` `Computer Vision` `Deep Learning`
+
+[Browse repositories →](https://github.com/ctrlglitch-arch?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Kosi V0.1
+
+A developing security-focused vulnerability and risk-analysis model.
+
+`Python` `Security` `ML`
+
+[Browse repositories →](https://github.com/ctrlglitch-arch?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `05 / ENGINEERING LOG`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### In progress
+
+- Build complete, documented projects
+- Strengthen API and database design
+- Improve testing and secure coding
+- Practice DSA and core CS fundamentals
+
+</td>
+<td width="50%" valign="top">
+
+### Next orbit
+
+- Contribute to open source
+- Learn from real codebases
+- Ship a useful developer tool
+- Explore deeper systems and security
+
+</td>
+</tr>
+</table>
+
+---
+
+## `06 / THE PRINCIPLE`
+
+<div align="center">
+
+> I don't just want to use technology.  
+> I want to understand how it works under the hood.
+
+**— CTRLGLITCH**
+
+`SMALL STEPS` &nbsp; · &nbsp; `BIG SYSTEMS` &nbsp; · &nbsp; `ALWAYS EVOLVING`
 
 </div>
 
@@ -22,38 +197,10 @@
 
 <div align="center">
 
-## `// SIGNAL RECEIVED`
+[GitHub](https://github.com/ctrlglitch-arch) ·
+[LinkedIn](https://www.linkedin.com/in/kushagra-garg24/) ·
+[LeetCode](https://leetcode.com/u/Ctrl-Gglitch/)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=3&section=header" />
-
-### `CTRLGLITCH` is online.
-
-**Computer Science student building across backend engineering, AI, cybersecurity and robotics.**
-
-Currently obsessed with:
-
-`DSA` · `Backend Development` · `Databases` · `Java` · `Systems`
+<sub>Built with curiosity, terminal text, and a slightly unreasonable love of space.</sub>
 
 </div>
-
----
-
-## 🟢 `ABOUT.exe`
-
-```text
-╭────────────────────────────────────────────────────────────╮
-│                                                            │
-│   USER        : KUSHAGRA GARG                              │
-│   ALIAS       : CTRLGLITCH                                 │
-│   CLASS       : B.Tech CSE                                 │
-│   INSTITUTE   : JIIT NOIDA                                 │
-│                                                            │
-│   PRIMARY     : BACKEND ENGINEERING                        │
-│   SECONDARY   : AI / CYBERSECURITY / ROBOTICS              │
-│                                                            │
-│   LANGUAGES   : JAVA · C++ · C · JAVASCRIPT · PYTHON       │
-│   DATABASES   : SQL · MONGODB · POSTGRESQL                 │
-│                                                            │
-│   CURRENTLY   : BUILDING / LEARNING / DEBUGGING            │
-│                                                            │
-╰────────────────────────────────────────────────────────────╯
