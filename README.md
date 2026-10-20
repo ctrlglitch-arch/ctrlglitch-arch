@@ -1,3 +1,59 @@
+
+<!--
+  CTRLGLITCH — GitHub Profile README
+  GitHub username: ctrlglitch-arch
+  Replace placeholder links and artwork paths with your actual assets.
+-->
+
+<div align="center">
+
+<!-- COSMIC HERO
+     Add your animated artwork at assets/cosmic-hero.gif.
+     Recommended: 1200x400, seamless loop, optimized file size.
+-->
+
+<img src="assets/cosmic-hero.gif" width="100%" alt="Animated cosmic eclipse with orbiting rings, stars and drifting space debris"/>
+
+<br/>
+
+# <span style="color:#CB2957">KUSHAGRA</span> GARG
+
+### `CSE STUDENT` · `BACKEND DEVELOPER` · `SECURITY` · `AI/ML`
+
+**Building systems. Breaking assumptions. Understanding what's underneath.**
+
+[GitHub](https://github.com/ctrlglitch-arch) ·
+[LinkedIn](https://www.linkedin.com/in/kushagra-garg24/) ·
+[LeetCode](https://leetcode.com/u/Ctrl-Gglitch/)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ctrlglitch-arch&style=flat-square&color=cb2957&label=PROFILE+VIEWS)](https://github.com/ctrlglitch-arch)
+
+</div>
+
+---
+
+## `01 / DEVELOPER STATUS`
+
+```text
+┌─────────────────────────────────────────────────────────┐
+│  CTRLGLITCH :: DEVELOPER TERMINAL                        │
+├─────────────────────────────────────────────────────────┤
+│  IDENTITY      Kushagra Garg                             │
+│  ROLE          CSE Student / Developer                   │
+│  BUILDING      Backend systems & developer tools         │
+│  EXPLORING     Security / AI-ML / System Design           │
+│  LANGUAGES     Java / C++ / Python / TypeScript / SQL     │
+│  PHILOSOPHY    Understand deeply. Build carefully.        │
+│  OBJECTIVE     Turn ideas into working systems.          │
+└─────────────────────────────────────────────────────────┘
+```
+
+> `root@ctrlglitch:~$` Learn the fundamentals. Engineer the solution. Ship the result.
+
+---
+
+## `02 / CONTRIBUTION MATRIX`
+
 <div align="center">
 
 <img src="assets/ascii-blackhole.gif" width="100%" alt="Multicolor rotating ASCII black hole"/>
@@ -126,28 +182,11 @@ Python + LLM + Streamlit document analysis and summarization project.
 <tr>
 <td width="50%" valign="top">
 
-### 👁️ NeelNETRA
-
-Computer-vision project exploring real-world visual detection and analysis.
-
-`Python` `Computer Vision` `Deep Learning`
-
-[Browse repositories →](https://github.com/ctrlglitch-arch?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Kosi V0.1
 
-A developing security-focused vulnerability and risk-analysis model.
-
-`Python` `Security` `ML`
-
-[Browse repositories →](https://github.com/ctrlglitch-arch?tab=repositories)
-
-</td>
-</tr>
-</table>
 
 ---
 
